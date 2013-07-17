@@ -15,11 +15,11 @@ New Delhi, India
 
 CEDT is Managed by Dhananjay V. Gadre 
 (dvgadre@gmail.com)
- www.dvgadre.in
+ www.dvgadre.com
 
-This library is created and managed by Anurag Chugh, Rohit Dureja and Shanjit Singh Jajmann
+This library is created and managed by Anurag Chugh, Rohit Dureja and Shanjit Singh Jajmann.
 
-
+Running Version: 75
 
 
 
